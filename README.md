@@ -1,7 +1,7 @@
-### Hi there 👋
+### What's Happening ?? 👋
 
 ##
-I am Shane and I began my coding journey in May of 2021. I started my journey with [Roots Technology](https://rootstechnology.info/) based out of Texas and am currently working to become a fullstack developer with [getCoding](https://www.get-coding.ca/) based out of Newfoundland Canada. My background is in mens competitive gymnastics.
+I am Shane and I began my coding journey in May of 2021. I started my journey with [Roots Technology](https://rootstechnology.info/) based out of Texas and am currently working to become a fullstack developer with [getCoding](https://www.get-coding.ca/) based out of Newfoundland Canada. My occupational background is in mens competitive gymnastics.
 
 #
 * 🌱 I’m currently learning node.js 
